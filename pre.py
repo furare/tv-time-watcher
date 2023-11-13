@@ -1,9 +1,6 @@
 from time import sleep
-import pyautogui
 import PySimpleGUI as sg 
-import random
 from datetime import datetime
-import os
 
 def notice(minute: int):
     defalut_font = ('Helvetica', 25)
